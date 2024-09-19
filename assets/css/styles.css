@@ -356,7 +356,8 @@ background-color: #f5f7fa6e;
 .modal-content
 {
     background-color: #fff;
-    padding:100px;
+    padding:100px 30px;
+    min-width: 280px;
     position: fixed;
     z-index: 2;
     left: 50%;
